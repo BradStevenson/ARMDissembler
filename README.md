@@ -1,10 +1,6 @@
 ARM Dissembler.
 ==============
 
-[![](https://ts4o2g.dm1.livefilestore.com/y1pXGreMwIPWwWhplw1JTHCYlwxOCCxd5rm4DbrWHMOHYKHsHfPaxqnu0vOEOv8s88VnYeTBvq6gDxylk9wxtLZpjP4ybLCYylW/Ubuntu%2012.png?psid=1)
-
-
-
 What?
 =====
 
@@ -28,3 +24,5 @@ Current Issues:
 ===============
 
 Currently not handling ELF files containing multiple program headers correctly.
+
+![](https://ts4o2g.dm1.livefilestore.com/y1pXGreMwIPWwWhplw1JTHCYlwxOCCxd5rm4DbrWHMOHYKHsHfPaxqnu0vOEOv8s88VnYeTBvq6gDxylk9wxtLZpjP4ybLCYylW/Ubuntu%2012.png?psid=1)
