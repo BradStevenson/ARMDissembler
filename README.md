@@ -11,7 +11,7 @@ Usage:
 
 Feel free to test it with any of the sample ELF files provided. The .s files are also provided for error checking/interest etc. I recommend opening these files with an emulator such as KMD (http://brej.org/kmd/) and compare with out put in the 'disassembly' window.
 
-$ DisARM <ELF FILE>
+$ DisARM {ELF FILE}
 
 Output:
 =======
